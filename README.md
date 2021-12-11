@@ -1,2 +1,1 @@
-# TiendaLaGenerica
-Entrega de proyecto ciclo 4 MisionTic 
+# Microservicio de productos
